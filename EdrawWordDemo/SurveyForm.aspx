@@ -161,7 +161,7 @@
                     <h3 class="title">MOI Survey Form</h3>
                     <a href="javascript:void(0)" class="toggle-accordion active" accordion-id="#accordion"></a>
                 </div>
-                <div class="clearfix"></div>
+                <div class="clearfix"></div> 
                 <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
                     <div class="panel panel-default">
                         <div class="panel-heading" role="tab" id="headingOne">
